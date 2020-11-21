@@ -1,11 +1,13 @@
-def 
-  first number = 1
+def first number = 1
 end
-def
-second_number = 2 
-sum = first_number + second_number 
-difference = first_number - second_number 
-product = first_number * second_number 
-quotient = first_number / second_number 
+def second_number = 2 
+end
+def sum = first_number + second_number 
+end
+def difference = first_number - second_number 
+end
+def product = first_number * second_number 
+end
+def quotient = first_number / second_number 
 end
 # Add your variables here
